@@ -1,0 +1,18 @@
+body {
+    background-color: azure;
+    cursor: default;
+}
+
+.newTask, button {
+    cursor: pointer;
+}
+
+input[type=checkbox]{
+	height: 0;
+	width: 0;
+	visibility: hidden;
+}
+
+label {
+	cursor: pointer;
+}
